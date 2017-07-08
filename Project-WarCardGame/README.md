@@ -1,0 +1,1 @@
+The user can play a round of [War] (https://en.wikipedia.org/wiki/War_(card_game)), a card game, against the CPU. All code is taken directly from/based on publically accessible and free lessons from [CodeWithChris](http://codewithchris.com/). 
