@@ -1,6 +1,6 @@
 Labryinth
 ===========
-###Ideas:
+### Ideas:
 - black and white aesthetic
 - glowing golden yarn is the only colour in the game
 - main character is a cube
